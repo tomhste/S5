@@ -1,12 +1,7 @@
 /******************************************************************************
- *  Name:       
- *  LoginID:     
- *  Group#:    
- *
- *  Partner Name:       
- *  Partner Login ID:      
- *  Partner Group#:    
- *
+ *  Name:Tómas Helgi Stefánsson   
+ *  LoginID:tomass09 
+ *  Group#:Hópur 2    
  *  Hours to complete assignment (optional):
  *
  ******************************************************************************/
